@@ -1,0 +1,26 @@
+.input{
+    margin-bottom: 20px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    background-color: bisque;
+
+}
+a{
+    color: burlywood;
+    text-decoration: none;
+}
+.datas{
+    border: solid bisque;
+    border-radius: 10px;
+}
+img{
+    margin-top: 10px;
+}
+p{
+    color:bisque ;
+}
